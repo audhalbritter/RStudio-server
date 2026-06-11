@@ -1,0 +1,6 @@
+# RStudio home directory (Docker volume mount)
+# Contains session state, config, and your local projects.
+rstudio-data/
+
+# macOS
+.DS_Store
