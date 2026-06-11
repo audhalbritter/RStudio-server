@@ -1,0 +1,14 @@
+{
+    "jobs_tab_visibility": "shown",
+    "save_workspace": "never",
+    "load_workspace": false,
+    "initial_working_directory": "~",
+    "posix_terminal_shell": "bash",
+    "always_save_history": false,
+    "default_project_location": "~",
+    "new_proj_git_init": true,
+    "show_terminal_tab": false,
+    "rainbow_parentheses": true,
+    "soft_wrap_r_files": true,
+    "insert_native_pipe_operator": true
+}
