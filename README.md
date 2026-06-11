@@ -17,6 +17,19 @@ The first time you run `docker compose up`, Docker will build the image. This ca
 
 To stop the server, press `Ctrl+C` in the terminal where `docker compose up` is running.
 
+### Edit setup
+
+Edit setup, save.
+
+Click the terminal where docker compose up is running.
+Press Ctrl+C to stop it.
+Run:
+
+```bash
+cd "/Users/audhalbritter/Documents/Research/OS_course/RStudio server"
+docker compose down
+docker compose up
+```
 
 ### Resetting between teaching sessions (optional)
 If you want a clean slate before each class without rebuilding:
